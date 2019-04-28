@@ -3,7 +3,7 @@ etherscan.io的接口开发
 'eth.csv' is from https://etherscan.io/chart/etherprice
 
 # 0.2 update  
-完成的功能：
+完成的功能：  
 1、历史信息  
 2、历史图表  
 3、 实时价格  
